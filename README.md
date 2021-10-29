@@ -1,4 +1,4 @@
-##Github Stats
+<!--##Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DrOncogene)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrOncogene)](https://github.com/anuraghazra/github-readme-stats)
