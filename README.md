@@ -1,6 +1,6 @@
 ### Hi there! 👋
 I'm Nasir Abdulrasheed, nice to meet you too. I love programming and the adrenaline rush there in.  
-I'm currently a software engineering student at [ALX Holberton schools.](https://www.alxafrica.com/software)
+I'm a software engineering Alumnus at [ALX Holberton schools.](https://www.alxafrica.com/software)
 I'm into C, python and the web(HTML, CSS, JS) and looking to become full stack engineer.  
 Currently deep diving into medium and advanced python. I'm interested in any software especially relating to the medical realm. Hook me up with any interesting one :+1:  
 
